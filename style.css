@@ -1,0 +1,4 @@
+body { font-family: sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
+header { background: #fff; padding: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+nav a { margin: 0 10px; text-decoration: none; color: #007bff; }
+footer { text-align: center; padding: 1rem; font-size: 0.9rem; }
